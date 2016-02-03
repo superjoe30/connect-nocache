@@ -1,3 +1,5 @@
+**deprecated in favor of** https://github.com/helmetjs/nocache
+
 Usage:
 ------
 
